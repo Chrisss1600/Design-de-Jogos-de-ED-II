@@ -11,3 +11,5 @@ A estrutura principal utilizada no projeto é uma **árvore binária de decisão
 Uma das funcionalidades do jogo é a capacidade de **aprender novos mamíferos**. Quando o programa erra o palpite, o jogador pode informar o animal correto e fornecer uma nova pergunta que permita diferenciá-lo do animal que estava cadastrado anteriormente. Dessa forma, a árvore é atualizada e passa a considerar a nova informação nas próximas partidas.
 
 O projeto tem como principal objetivo demonstrar, de forma prática e interativa, a utilização de **árvores binárias, nós, percursos e inserção de novos elementos**, aplicando conceitos estudados na disciplina de **Estrutura de Dados II**.
+
+https://github.com/buyan-kh/20questions_game/tree/main
