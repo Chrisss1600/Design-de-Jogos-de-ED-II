@@ -6,7 +6,7 @@
 - Nicolas Luis Guerrero de Oliveira
 - Thiago Vinicius Rodrigues Feitosa
   
-Este projeto consiste em uma implementação do jogo **“20 Questões”**, desenvolvido em Python pelo estudante de Ciência da Computação Buyan Khurelbaatar utilizando a biblioteca **Tkinter** para a criação da interface gráfica.
+Este projeto consiste em uma implementação do jogo **“20 Questões”**, desenvolvido em Python pelo estudante de Ciência da Computação Buyan Khurelbaatar utilizando a biblioteca **Tkinter** para a criação da interface gráfica do jogo.
 
 O objetivo do jogo é descobrir qual mamífero o jogador está pensando por meio de uma sequência de perguntas que podem ser respondidas com **“Sim”, “Não”, “Não sei” ou “Talvez”**.
 
