@@ -1,4 +1,4 @@
-# Jogo de 20 Questões sobre mamíferos com 'Adivinhação por eliminação'
+# Jogo de 20 Questões sobre mamíferos com 'Adivinhação por eliminação'.
 
 # Integrantes do grupo:
 - Fellipe Gabriel Souza de Assis Monteiro
