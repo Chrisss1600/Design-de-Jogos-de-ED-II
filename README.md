@@ -1,8 +1,12 @@
-# Design-de-Jogos-de-ED-II
+# Jogo de 20 Questões sobre mamíferos com 'Adivinhação por eliminação'
 
-# Jogo de 20 Questões
-
-Este projeto consiste em uma implementação do jogo **“20 Questões”**, desenvolvido em Python utilizando a biblioteca **Tkinter** para a criação da interface gráfica.
+# Integrantes do grupo:
+- Fellipe Gabriel Souza de Assis Monteiro
+- Ian Cristyan Sousa da Silva
+- Nicolas Luis Guerrero de Oliveira
+- Thiago Vinicius Rodrigues Feitosa
+  
+Este projeto consiste em uma implementação do jogo **“20 Questões”**, desenvolvido em Python pelo estudante de Ciência da Computação Buyan Khurelbaatar utilizando a biblioteca **Tkinter** para a criação da interface gráfica.
 
 O objetivo do jogo é descobrir qual mamífero o jogador está pensando por meio de uma sequência de perguntas que podem ser respondidas com **“Sim”, “Não”, “Não sei” ou “Talvez”**.
 
@@ -12,4 +16,5 @@ Uma das funcionalidades do jogo é a capacidade de **aprender novos mamíferos**
 
 O projeto tem como principal objetivo demonstrar, de forma prática e interativa, a utilização de **árvores binárias, nós, percursos e inserção de novos elementos**, aplicando conceitos estudados na disciplina de **Estrutura de Dados II**.
 
+# Repositório do criador: 
 https://github.com/buyan-kh/20questions_game/tree/main
